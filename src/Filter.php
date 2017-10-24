@@ -2,7 +2,7 @@
 
 namespace Sahakavatar\Hook;
 
-class Filter extends Event {
+class Filter extends Hook {
 
 	/**
 	 * Filters a value
