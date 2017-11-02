@@ -1,5 +1,5 @@
 {
-    "name": "sahak.avatar/hook",
+    "name": "btybug/hook",
     "authors": [
         {
             "name": "Sahak",
@@ -11,7 +11,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Sahakavatar\\Hook\\": "src/"
+            "Btybug\\Hook\\": "src/"
         }
     }
 }
