@@ -1,6 +1,6 @@
 <?php
 
-namespace Sahakavatar\Hook\Facades;
+namespace Btybug\Hook\Facades;
 
 use Illuminate\Support\Facades\Facade;
 

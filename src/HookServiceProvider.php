@@ -1,6 +1,6 @@
 <?php
 
-namespace Sahakavatar\Hook;
+namespace Btybug\Hook;
 
 use Illuminate\Support\ServiceProvider;
 

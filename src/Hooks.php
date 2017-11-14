@@ -1,18 +1,18 @@
 <?php
 
-namespace Sahakavatar\Hook;
+namespace Btybug\Hook;
 
 class Hooks {
 
 	/**
 	 * Holds all registered actions
-	 * @var Sahakavatar\Hooks\Action
+	 * @var Btybug\Hooks\Action
 	 */
 	protected $action;
 
 	/**
 	 * Holds all registered filters
-	 * @var Sahakavatar\Hooks\Filter
+	 * @var Btybug\Hooks\Filter
 	 */
 	protected $filter;
 
@@ -27,7 +27,7 @@ class Hooks {
 
 	/**
 	 * Get the action instance
-	 * @return Sahakavatar\Hooks\Action
+	 * @return Btybug\Hooks\Action
 	 */
 	public function getAction() {
 		return $this->action;
@@ -36,7 +36,7 @@ class Hooks {
 
 	/**
 	 * Get the action instance
-	 * @return Sahakavatar\Hooks\Filter
+	 * @return Btybug\Hooks\Filter
 	 */
 	public function getFilter() {
 		return $this->filter;
